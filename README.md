@@ -15,8 +15,7 @@ The simplest way to group by:
 
 Works with Rails 3.1+
 
-Supports PostgreSQL, MySQL, and SQLite
-Supports PostgreSQL and MySQL, plus arrays and hashes
+Supports PostgreSQL, MySQL, and SQLite, plus arrays and hashes
 
 [![Build Status](https://travis-ci.org/ankane/groupdate.png)](https://travis-ci.org/ankane/groupdate)
 
